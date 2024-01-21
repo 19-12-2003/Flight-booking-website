@@ -3,7 +3,6 @@
 
 
 A flight booking Django application written in Python, HTML, CSS & Javascript.
-This is the capstone project for CS50's Web Programming with Python and Javascript
 
 
 <img alt="flight" src="https://user-images.githubusercontent.com/56977388/178156598-69491e88-bd9a-42dc-88f3-afeb02d7161e.png">
@@ -51,8 +50,7 @@ This is the capstone project for CS50's Web Programming with Python and Javascri
 
 1. Mobile responsive webpages.
 2. More complex models.
-3. More interatactive because webpages use ajax functionality (eg., fetch) written in javascript.
-4. Converts html template to downloadable pdf.
+3. Converts html template to downloadable pdf.
 
 ### Installation
 
