@@ -43,11 +43,6 @@ A flight booking Django application written in Python, HTML, CSS & Javascript.
   - `requirements.txt` - This file contains all contains all the python packages that needs to be installed to run this web application.
   - `manage.py` - This file is used basically as a command-line utility and for deploying, debugging, or running our web application.
 
-### Justification
-
-1. Mobile responsive webpages.
-2. More complex models.
-3. Converts html template to downloadable pdf.
 
 ### Installation
 
